@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties> 
+	<!--URL list-->
+    <entry key="mainUrl">https://www.microsoft.com/en-us/</entry>
+	<entry key="windowsUrl">https://www.microsoft.com/en-us/windows/</entry>
+	<entry key="searchUrl">https://www.microsoft.com/en-us/search?q=Visual+Studio</entry>
+	<entry key="detailsUrl">https://www.microsoft.com/en-us/p/visual-studio-professional-subscription/dg7gmgf0dst3?activetab=pivot%3aoverviewtab</entry>
+	<entry key="shopCart">https://www.microsoft.com/en-us/store/cart</entry>
+	
+	<!--Other stuff list-->
+	
+	<entry key="driversDir">\drivers\</entry>
+	<entry key="chromeDriverName">chromedriver</entry>
+	<entry key="chromeDriverKeyValue">webdriver.chrome.driver</entry>
+	<entry key="geckoDriverName">geckodriver</entry>
+	<entry key="geckoDriverKeyValue">webdriver.gecko.driver</entry>
+	<entry key="maxWaitTime">10</entry>
+</properties>
